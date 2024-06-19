@@ -842,7 +842,7 @@ footer li:hover {
   height: 50px;
   padding: 20px 30px;
   border: none;
-  width: 130px;
+
 }
 
   footer .payment {
@@ -917,5 +917,8 @@ footer li:hover {
 }
 .contact-form button {
   margin-left: 30%;
+}
+  .news-form form button {
+  width: 130px;
 }
 }
