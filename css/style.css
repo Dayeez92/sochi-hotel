@@ -842,6 +842,7 @@ footer li:hover {
   height: 50px;
   padding: 20px 30px;
   border: none;
+  width: 130px;
 }
 
   footer .payment {
